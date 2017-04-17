@@ -1,3 +1,3 @@
-Esta es la sección contacto.
+<hi>Esta es la sección contacto.</hi>
 
-Hay muy poco texto!!!!!
+<p>Hay muy poco texto!!!!!</p>
