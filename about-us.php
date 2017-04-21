@@ -1,8 +1,5 @@
-<?php
-
-	echo "Esto es un ejemplo de página 'About us'";
-
-	echo "Lo estamos modificando desde LA WEB";
-	echo "LO EDITAMOS DESDE EL ORDENADOR";
-
-?>
+<html>
+	<div>
+		Esta será mi página de About Us
+	</div>
+</html>
