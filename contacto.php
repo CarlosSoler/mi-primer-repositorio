@@ -1,3 +1,3 @@
-<hi>Esta es la sección contacto.</hi>
+<h1>Esta es la sección contacto.</h1>
 
-<p>Hay muy poco texto, deberíamos de escribir algo!!!!</p>
+<div> Tengo que programar esta página cuanto antes. </div>
