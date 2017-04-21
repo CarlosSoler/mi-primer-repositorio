@@ -1,4 +1,4 @@
-<h1>Esta es la sección contacto.</h1>
+<h1>Contacto: Desde aquí nos podéis contactar</h1>
 
 <div> Tengo que programar esta página cuanto antes. </div>
 
