@@ -2,4 +2,6 @@
 
 	echo "Esto es un ejemplo de página 'About us'";
 
+	echo "Lo estamos modificando desde LA WEB";
+
 ?>
